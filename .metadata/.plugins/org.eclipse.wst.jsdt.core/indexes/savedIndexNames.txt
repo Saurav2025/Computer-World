@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\htdocs\htdocs\Computer Shop Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1331862262.index
+747455582.index
+2522149768.index
+3434809889.index
+3079382720.index
